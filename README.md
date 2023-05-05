@@ -11,8 +11,6 @@ Reach me on:
 
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav9799&show_icons=true&theme=radical)](https://github.com/gaurav9799)
 
-## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/gaurav9799">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav9799&layout=compact&hide=html&theme=dark" />
 </a>
