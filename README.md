@@ -2,7 +2,7 @@
 
 Deep Learning Enthusiast | Data Scientist | Freelance Deep Learning Consultant
 
-As a Data Scientist and Freelance Machine Learning Consultant, I am passionate about leveraging my expertise in machine learning, deep learning, and NLP to deliver insightful and actionable solutions to complex business problems. With a track record of successful machine learning projects, I have gained extensive experience in using a variety of programming languages, frameworks, and tools to develop algorithms and models that can uncover valuable insights from large datasets. Whether working independently or as part of a team, I am committed to delivering high-quality work that meets the unique needs of each client.
+As a Data Scientist and Freelance Deep Learning Consultant, I am passionate about leveraging my expertise in machine learning, deep learning, and NLP to deliver insightful and actionable solutions to complex business problems. With a track record of successful machine learning projects, I have gained extensive experience in using a variety of programming languages, frameworks, and tools to develop algorithms and models that can uncover valuable insights from large datasets. Whether working independently or as part of a team, I am committed to delivering high-quality work that meets the unique needs of each client.
 
 Reach me on:
 - My Profile on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-purohit-38574422a/)
